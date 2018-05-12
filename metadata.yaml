@@ -1,0 +1,28 @@
+_repo: Through-Bosnia-and-Herzegovina-With-a-Paint-Brush_45338
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45338-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Whitwell, Edward Robson, Mrs.
+    aliases:
+    - Whitwell, Mrs. E. R.
+    - Whitwell, Mrs. Edward Robson
+    gutenberg_agent_id: '43225'
+    url: http://www.gutenberg.org/2009/agents/43225
+description: ''
+gutenberg_issued: '2014-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45338'
+  lccn: 09016833
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bosnia and Herzegovina -- Description and travel'
+- !lcc 'DB'
+title: Through Bosnia and Herzegovina with a Paint Brush
+url: http://www.gutenberg.org/ebooks/45338
