@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '43225'
     url: http://www.gutenberg.org/2009/agents/43225
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45338#Through-Bosnia-and-Herzegovina-With-a-Paint-Brush
 gutenberg_issued: '2014-04-06'
 gutenberg_type: Text
 identifiers:
